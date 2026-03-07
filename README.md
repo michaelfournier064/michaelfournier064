@@ -34,7 +34,7 @@ I enjoy working across multiple domains including backend architecture, distribu
 
 # Highlighted Projects
 
-## Keplor Core
+## [Keplor Core](https://github.com/michaelfournier064/keplor-core)
 **Backend service platform built in Go**
 
 - Hexagonal architecture design
@@ -42,12 +42,9 @@ I enjoy working across multiple domains including backend architecture, distribu
 - Domain-driven module separation
 - Built for scalability and maintainability
 
-Repository  
-https://github.com/michaelfournier064/keplor-core
-
 ---
 
-## Keplor Website Frontend
+## [Keplor Website Frontend](https://github.com/michaelfournier064/keplor-website-frontend)
 **React + TypeScript frontend for the Keplor platform**
 
 - Modern React architecture
@@ -55,24 +52,18 @@ https://github.com/michaelfournier064/keplor-core
 - Type-safe frontend with TypeScript
 - Integrated with Go backend services
 
-Repository  
-https://github.com/michaelfournier064/keplor-website-frontend
-
 ---
 
-## Ghost Knight
+## [Ghost Knight](https://github.com/michaelfournier064/ghost-knight)
 **Action RPG game project**
 
 - Built using Godot
 - Entity Component System architecture
 - Gameplay mechanics, combat systems, and world building
 
-Repository  
-https://github.com/michaelfournier064/ghost-knight
-
 ---
 
-## LeetCode Solution Silo
+## [LeetCode Solution Silo](https://github.com/michaelfournier064/leetcode-solution-silo)
 **Collection of algorithm and data structure solutions**
 
 - Organized solutions to common algorithm problems
@@ -82,43 +73,31 @@ https://github.com/michaelfournier064/ghost-knight
   - Data structures
   - Complexity optimization
 
-Repository  
-https://github.com/michaelfournier064/leetcode-solution-silo
-
 ---
 
-## Blackjack
+## [Blackjack](https://github.com/michaelfournier064/blackjack)
 **Blackjack game implementation**
 
 - Object oriented design
 - Card engine and rule system
 - Game state management
 
-Repository  
-https://github.com/michaelfournier064/blackjack
-
 ---
 
-## Calorie Mate
+## [Calorie Mate](https://github.com/michaelfournier064/calorie-mate)
 **Nutrition and meal tracking system**
 
 - Designed to help track meals, macros, and recipes
 - Focused on usability and personal health analytics
 
-Repository  
-https://github.com/michaelfournier064/calorie-mate
-
 ---
 
-## Fishing Simulator
+## [Fishing Simulator](https://github.com/michaelfournier064/fishing-simulator)
 **Game project simulating fishing mechanics**
 
 - Gameplay systems
 - Simulation mechanics
 - Experimental game design
-
-Repository  
-https://github.com/michaelfournier064/fishing-simulator
 
 ---
 
