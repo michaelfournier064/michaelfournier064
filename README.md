@@ -112,5 +112,5 @@ I enjoy working across multiple domains including backend architecture, distribu
 
 # Connect
 
-GitHub  
+LinkedIn  
 https://www.linkedin.com/in/michael-fournier-13a99b368/
