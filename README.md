@@ -112,5 +112,4 @@ I enjoy working across multiple domains including backend architecture, distribu
 
 # Connect
 
-LinkedIn  
-https://www.linkedin.com/in/michael-fournier-13a99b368/
+[LinkedIn](https://www.linkedin.com/in/michael-fournier-13a99b368/)
